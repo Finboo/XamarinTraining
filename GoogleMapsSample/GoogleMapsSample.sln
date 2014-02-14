@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoogleMapsSample", "GoogleMapsSample\GoogleMapsSample.csproj", "{3D2002F9-A3CA-4241-A167-38F7609986AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GooglePlayServices", "GooglePlayServices\GooglePlayServices.csproj", "{81C4077C-B583-447D-ACBA-EC6DD5EDB9A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D2002F9-A3CA-4241-A167-38F7609986AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D2002F9-A3CA-4241-A167-38F7609986AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D2002F9-A3CA-4241-A167-38F7609986AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D2002F9-A3CA-4241-A167-38F7609986AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81C4077C-B583-447D-ACBA-EC6DD5EDB9A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81C4077C-B583-447D-ACBA-EC6DD5EDB9A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81C4077C-B583-447D-ACBA-EC6DD5EDB9A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81C4077C-B583-447D-ACBA-EC6DD5EDB9A1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = GoogleMapsSample\GoogleMapsSample.csproj
+	EndGlobalSection
+EndGlobal
