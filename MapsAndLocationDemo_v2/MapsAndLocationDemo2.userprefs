@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="GooglePlayServices\obj\Debug\generated\src\Android.Gms.Games.Games.cs">
+    <Files>
+      <File FileName="GooglePlayServices\obj\Debug\generated\src\Android.Gms.Games.Games.cs" Line="136" Column="55" />
+      <File FileName="GooglePlayServices\Transforms\Metadata.xml" Line="15" Column="74" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,12 +1,15 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="GooglePlayServices\obj\Debug\generated\src\Com.Google.Android.Gms.Drive.Metadata.cs">
     <Files>
-      <File FileName="GoogleMapsSample\MainActivity.cs" Line="1" Column="1" />
+      <File FileName="GoogleMapsSample\MainActivity.cs" Line="14" Column="17" />
+      <File FileName="GooglePlayServices\obj\Debug\generated\src\Com.Google.Android.Gms.Drive.Metadata.cs" Line="9" Column="124" />
+      <File FileName="GooglePlayServices\Transforms\Metadata.xml" Line="5" Column="6" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.GoogleMapsSample AndroidDeviceId-Debug="192.168.56.103:5555" />
 </Properties>
