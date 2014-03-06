@@ -1,13 +1,16 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="GooglePlayServices\obj\Debug\generated\src\Android.Gms.Games.Games.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SimpleMapDemo\MainActivity.cs">
     <Files>
-      <File FileName="GooglePlayServices\obj\Debug\generated\src\Android.Gms.Games.Games.cs" Line="136" Column="55" />
-      <File FileName="GooglePlayServices\Transforms\Metadata.xml" Line="15" Column="74" />
+      <File FileName="GooglePlayServices\obj\Debug\generated\src\Android.Gms.Games.Games.cs" Line="139" Column="47" />
+      <File FileName="SimpleMapDemo\MainActivity.cs" Line="81" Column="28" />
+      <File FileName="SimpleMapDemo\Properties\AndroidManifest.xml" Line="2" Column="141" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.LocationDemo MonoForAntroid.PreferredDevice="3.7in WVGA (Nexus One)" />
+  <MonoDevelop.Ide.ItemProperties.SimpleMapDemo AndroidDeviceId-Debug="192.168.56.103:5555" MonoForAntroid.PreferredDevice="3.7in WVGA (Nexus One)" />
 </Properties>
